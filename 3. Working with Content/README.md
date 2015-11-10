@@ -1,11 +1,12 @@
-####Working with Content
+####Arbejd med indhold
 1. Rich Text Editor
-  1. Editor Buttons
-  2. Paragraph Break/Line Break
-  3. Shortcut Keys
-  4. Text Formatting
-  5.  Show/Hide HTML Code
+  1. Editor Knapper
+  2. Afsnit brydelse / linjeskift
+  3. Genvejstaster
+  4. Tekst formattering
+  5.  Vis/Gem HTML kode
   6.  Links
-  7.  Working with Images
-  8.  Macros
-  9.  Tables
+  7.  Arbejde med billeder
+  8.  Makroer
+  9.  Fjernelse af makroer
+  10. Tabeller
