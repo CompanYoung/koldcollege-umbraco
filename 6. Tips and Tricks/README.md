@@ -1,7 +1,7 @@
 ####Tips & Tricks
 1. Tips når du arbejder med Mapper
 2. Revisionsspor
-3. Changing  Document Types
-4. Notifications
-5. Preview Pane  Responsive View
+3. Ændring dokumenttyper
+4. Notifikationer
+5. Forhåndsvis Responsiv Rude
 6. Session Timeout
