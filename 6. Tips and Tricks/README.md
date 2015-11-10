@@ -1,5 +1,5 @@
 ####Tips & Tricks
-1. Tips when Working with Folders
+1. Tips når du arbejder med Mapper
 2. Audit Trail
 3. Changing  Document Types
 4. Notifications
