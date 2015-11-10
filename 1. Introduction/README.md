@@ -1,13 +1,14 @@
 #Introduktion#
 
-**Welcome to Umbraco!**
+**Velkommen til Umbraco!**
 
-Umbraco is an information platform that  allows you to quickly and easily publish  information onto  a website without  the need  for any prior knowledge of web page  editing. It is designed to be simple  to use  yet powerful  and flexible enough to enable  users full control  of their website content.
+Umbraco er en informationsplatform, der giver dig mulighed for hurtigt og nemt publicere information på en hjemmeside uden behov for nogen forudgående kendskab til webside redigering. Det er designet til at være enkel at bruge og alligevel kraftfuld og fleksibel nok til, at brugerne fuld kontrol over deres hjemmeside indhold.
 
-No special skills are required  in order to create, publish  and manage web pages and related content with Umbraco. Any prior web page  editing experience you may have will of course prove useful  in terms of understanding what  you want  your website to do. Anything you can  do using HTML can  also be done  in Umbraco – the functionality is not reduced just because Umbraco is easy  to use.
+Ingen særlige færdigheder er nødvendige for at skabe, publicere og administrere websider og relateret indhold med Umbraco. Hvis du har nogen forudgående erfaring med webside redigering vil naturligvis være nyttig i forhold til at forstå, hvad du vil bruge  din hjemmeside til. Alt hvad du kan gøre ved hjælp af HTML kan også laves i Umbraco - funktionaliteten er ikke reduceret bare fordi Umbraco er let at bruge.
 
-The Umbraco platform can  be utilised for all types  of websites – from public websites to intranets and extranets, whether password protected or not. It can  even be used  to manage multiple websites from a single Umbraco instance. Regardless of the type, authorisation to edit them  can  be given to anybody  you choose and as editing is done  via a web browser, it can  be done  at any time and in any place.
+Umbraco platformen kan anvendes til alle typer af hjemmesider - fra offentlige hjemmesider til intranet og ekstranet, uanset om de er password beskyttet eller ej. Det kan endda bruges til at administrere flere websteder fra en enkelt Umbraco instans. Uanset  type, kan tilladelse til at redigere gives til nogen du vælger, og eftersom redigering sker via en webbrowser, kan det gøres til enhver tid og på ethvert sted.
 
-Umbraco is designed to be intuitive and straight-forward so the aim of this manual is to explain each  step  in simple  terms and get you editing your website with ease.
+Umbraco er designet til at være intuitiv og ligetil, så formålet med denne vejledning er at forklare hvert trin i enkle vendinger og få dig i gang med at redigere din hjemmeside med lethed.
 
-Happy editing!
+God fornøjelse!
+
